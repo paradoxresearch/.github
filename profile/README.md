@@ -4,7 +4,12 @@
 
 Through comprehensive guides and hands-on experimentation, Paradox Research provides accessible resources designed to empower individuals in taking control of their digital environments. Whether refining security protocols, optimizing automation workflows, or crafting cohesive branding strategies, every initiative is driven by a commitment to deeper understanding and practical application.
 
+---
+
 [Github Pages](https://paradoxresearch.github.io/)
+
 [Self Hosted Server Survival Guide](https://github.com/paradoxresearch/SHSSG)
+
+---
 
 **Contact:** [info@paradoxresearch.net](mailto:info@paradoxresearch.net)
