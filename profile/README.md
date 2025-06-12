@@ -1,0 +1,3 @@
+# Paradox Research
+
+## Hi there 👋
